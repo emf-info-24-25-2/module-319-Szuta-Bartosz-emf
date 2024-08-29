@@ -7,7 +7,7 @@ System.out.println("Je m’appelle " + nom + " et j’ai "+age+" années.");
 byte age1 = 17+10;
 System.out.println("Dans 10 ans, j'aurai " + age1 + " ans.");
 }
-
+ 
     
 }
     
