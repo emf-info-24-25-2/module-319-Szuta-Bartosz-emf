@@ -1,5 +1,6 @@
 package devoirs.devoir01;
 
+<<<<<<< HEAD
 public class devoir01 {public static void main(String[] args) { 
 String variable3 = "Je m'appelle Szuta Bartosz";
 System.out.println(variable3);
@@ -15,5 +16,8 @@ if (MonAge>=18) {System.out.println(variable1);
 
     
 }
+=======
+public class devoir01 {
+>>>>>>> f3bca87facd4b48f1f92419524afc02547f095cb
     
 }
