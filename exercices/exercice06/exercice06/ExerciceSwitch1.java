@@ -39,8 +39,6 @@ public class ExerciceSwitch1 {
 
             default:
                 break;
-        }
-
     }
-
+    }
 }
