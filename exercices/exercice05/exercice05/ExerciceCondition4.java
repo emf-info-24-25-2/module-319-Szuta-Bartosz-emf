@@ -19,6 +19,8 @@ public class ExerciceCondition4 {public static void main(String[] args) {
     }else if (temperature>35) {System.out.println("Il fait très chaud");
         
     }
+    
+    
         
     }
         
