@@ -1,12 +1,8 @@
 package exercices.exercice05.exercice05;
 
-import java.util.Scanner;
-
 public class ExerciceCondition4 {public static void main(String[] args) {
 
-   Scanner scanner = new Scanner(System.in);
-   System.out.print("Entrez la température : ");
-        int temperature = scanner.nextInt();
+        int temperature = 12;
 
     if (temperature<-10) {System.out.println("Il fait très froid");
         
@@ -19,7 +15,7 @@ public class ExerciceCondition4 {public static void main(String[] args) {
     }else if (temperature>35) {System.out.println("Il fait très chaud");
         
     }
-    
+
     
         
     }
