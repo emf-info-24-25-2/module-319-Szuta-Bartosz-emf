@@ -1,7 +1,7 @@
 package devoirs.devoir03;
 import java.util.Scanner;
 
-import java.util.Scanner;
+
 
 public class devoir03 {public static void main(String[] args) {
      // Déclaration des variables pour jour, mois et année
