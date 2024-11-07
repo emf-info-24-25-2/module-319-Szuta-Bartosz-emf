@@ -1,3 +1,4 @@
+package k$;
 import java.util.Base64;
 
 public class Activity3 {
