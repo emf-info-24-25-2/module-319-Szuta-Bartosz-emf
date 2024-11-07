@@ -31,7 +31,7 @@ package exercices.exercice13;
     // Méthode de test du mot de passe (simulée pour cet exemple)
     private static boolean testPassword(String password) {
         // Remplacez "abc12" par le mot de passe réel que vous voulez tester
-        String correctPassword = "abc12";
+        String correctPassword = "xay87";
         return password.equals(correctPassword);
     }
 }
