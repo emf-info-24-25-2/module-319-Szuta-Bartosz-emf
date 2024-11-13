@@ -4,7 +4,7 @@ public class devoir01 {
     public static void main(String[] args) {
         boolean EstMajeur;
         byte MonAge = 17;
-        if (MonAge<=18) {EstMajeur=false;
+        if (MonAge<=18) {EstMajeur=false; //RIF: attention au formatage, retournez a la ligne
             
         } else {EstMajeur=true;
             
@@ -13,13 +13,9 @@ public class devoir01 {
         
         System.out.println("Mon âge est de " + MonAge + " ans");
 
-        // Relisez bien la donnée, String n'est
-        // le bon choix pour estMajeur. Il faut une variable
-        // qui permet de stocker si oui ou non la personne est majeure.
-        // changez ceci et corrigez la suite de l'exercice
 
         if (EstMajeur==true) {
-            System.out.println("estMajeur");
+            System.out.println("estMajeur"); //RIF: ce serait mieux avec une phrase :-)
 
         } else{System.out.println("Je ne suis pas encore majeur");}
 
