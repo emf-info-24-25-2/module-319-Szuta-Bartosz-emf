@@ -18,7 +18,7 @@ public class devoir05 {
         Scanner scanner = new Scanner(System.in);
 
         // La première personne choisit un nombre entre 1 et 100
-
+      // RIF: vous pourriez aussi tirer un nombre au hasard
         System.out.print("Choisissez un nombre entre 1 et 100 : ");
 
         int nombreATrouver = scanner.nextInt();
