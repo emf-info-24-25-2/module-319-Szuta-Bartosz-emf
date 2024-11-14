@@ -53,8 +53,8 @@ public class devoir06 {
             }
             return -1;
         }
-    
         public static void main(String[] args) {
+
             // Générer le tableau
             int[] tableau = genereTableau(TAILLE_TABLEAU, VALEUR_MIN, VALEUR_MAX);
     
@@ -74,6 +74,8 @@ public class devoir06 {
             System.out.println("Le nombre [" + VALEUR_RECHERCHEE + "] est à la position [" + position + "] du tableau");
         }
     }
-    
-    
 }
+        
+
+    
+

@@ -111,10 +111,14 @@ public class Methodes1 {
 
     // Méthode principale pour tester toutes les méthodes
     public static void main(String[] args) {
+        int[] tab1;
+        int[] tab;
+        int[] tab2;
         // 1. Créer et remplir un tableau
         int[] tableau = creerTableau(50);
         remplirTableauAleatoire(tableau);
 
+        tab2= new int[9];
         // 2. Afficher la taille du tableau
         System.out.println("Le tableau a une taille de " + tailleTableau(tableau) + " cellules.\n");
 
