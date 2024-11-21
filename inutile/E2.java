@@ -1,4 +1,4 @@
-package revisions.E1_2022_2023;
+package inutile;
 
 import java.util.Random;
 

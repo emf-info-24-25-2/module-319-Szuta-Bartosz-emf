@@ -1,4 +1,5 @@
-package revisions.E2_2022_2023;
+package inutile;
+
 
 import java.util.Scanner;
 
