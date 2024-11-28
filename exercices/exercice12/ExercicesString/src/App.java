@@ -10,6 +10,7 @@ public class App {
 
     }
     }*/
+    /*
     public static void main(String[] args){ 
         String prenom ="Bartosz";
         for(int i = 0; i<=7;i++ ) {
@@ -19,4 +20,4 @@ public class App {
 
 
     }
-}
+}*/
