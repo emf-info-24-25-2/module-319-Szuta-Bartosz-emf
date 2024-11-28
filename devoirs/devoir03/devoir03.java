@@ -2,7 +2,8 @@ package devoirs.devoir03;
 import java.util.Scanner;
 
 
-
+//RIF: attention au formatage: mettez un retour a la ligne après la classe 
+//RIF: attention également: la convention EMF est de 1 return par méthode
 public class devoir03 {public static void main(String[] args) {
      // Déclaration des variables pour jour, mois et année
         int jour, mois, annee;
@@ -31,7 +32,7 @@ public class devoir03 {public static void main(String[] args) {
             return;
         }
 
-        if (jour < 1 || jour > 31) {
+        if (jour < 1 || jour > 31) { 
             System.out.println("Le jour doit être compris entre 1 et 31.");
             return;
         }

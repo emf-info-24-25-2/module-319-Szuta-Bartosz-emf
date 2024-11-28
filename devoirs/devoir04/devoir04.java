@@ -25,6 +25,7 @@ public class devoir04 {
             System.out.println("L'année [" + year + "] est hors limites !");
             return;
         }
+        // RIF: c'est une bonne solution mais rappelez-vous de la convention EMF=> un seul return par methode
 
         // Vérification du mois
         if (month < 1 || month > 12) {

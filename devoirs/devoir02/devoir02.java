@@ -2,6 +2,7 @@ package devoirs.devoir02;
 
 import java.util.Random;
 
+//RIF: très bien!
 public class devoir02 {
     public static final int CAPACITE_RESERVOIR_A = 3;
     public static final int CAPACITE_RESERVOIR_B = 5;
